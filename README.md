@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The project looks into migration in Europe and its affects on the labour market. In each of the EU country I analyze the relationship between nationals employed & unemployed and foreigners employed & unemployed. National workers are those who have a citizenship in the residing country and foreign workers do not.
+The project looks into migration in Europe and its effects on the labour market. In each of the EU country I analyze the relationship between nationals employed & unemployed and foreigners employed & unemployed. National workers are those who have a citizenship in the residing country and foreign workers do not.
 
 The project tries to answer the following questions: 
 
